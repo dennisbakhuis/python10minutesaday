@@ -1,4 +1,5 @@
 <img src="assets/jeremy-lapak-CVvFVQ_-oUg-unsplash.png" alt="Python Envs" style="display: block; margin: 0 auto" />
+
 # Learning Python 10 minutes a day
 This is a [series](https://towardsdatascience.com/tagged/10minutespython) of
 short 10 minute Python articles helping you to get started with Python. I try
