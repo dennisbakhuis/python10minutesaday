@@ -1,3 +1,4 @@
+<img src="assets/jeremy-lapak-CVvFVQ_-oUg-unsplash.png" alt="Python Envs" style="display: block; margin: 0 auto" />
 # Learning Python 10 minutes a day
 This is a [series](https://towardsdatascience.com/tagged/10minutespython) of
 short 10 minute Python articles helping you to get started with Python. I try
@@ -7,7 +8,7 @@ up to more complex idioms. Feel free to contact me on
 requests on particular subjects of Python, you want to know about.
 
 Topics:
-1. [What are Python, IPython, and Jupyter lab?](1 - Python 10min a day - What are Python, IPython, and Jupyter lab?.ipynb)
+1. [What are Python, IPython, and Jupyter lab?](1&#32;-&#32;Python&#32;10min&#32;a&#32;day&#32;-&#32;What&#32;are&#32;Python,&#32;IPython,&#32;and&#32;Jupyter lab?.ipynb)
 2. [Using Jupyter Lab and navigating notebooks]()
 3. [Commenting - what Python ignores is useful for you!]()
 4. [Numeric variables and how to assign them]()
