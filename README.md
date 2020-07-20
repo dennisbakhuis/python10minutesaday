@@ -22,8 +22,4 @@ Topics:
 9. [Defining functions and stop repeating yourself](https://github.com/dennisbakhuis/python10minutesaday/blob/master/9%20-%20Python%2010min%20a%20day%20-%20Defining%20functions%20and%20stop%20repeating%20yourself.ipynb)
 10. [Testing you new skills: code a quick-sort algorithm](https://github.com/dennisbakhuis/python10minutesaday/blob/master/10%20-%20Python%2010min%20a%20day%20-%20Testing%20your%20new%20skills%20-%20code%20a%20quick-sort%20algorithm.ipynb)
 
-If you have found these articles useful I would love to know about it. Feel free to send me a message on LinkedIn. Even more fun and if you can spare a stamp, please set me a postcard to:\
-Dennis Bakhuis\
-Getfertsingel 210\
-7513 GG  Enschede\
-The Netherlands
+If you have found these articles useful I would love to know about it. Feel free to send me a message on LinkedIn. Even more fun and if you can spare a stamp, please set me a postcard, just ask me my address. You will be on my wall of fame in my house (-:.
