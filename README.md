@@ -21,5 +21,16 @@ Topics:
 8. [Looping in Python: for a while](https://github.com/dennisbakhuis/python10minutesaday/blob/master/8%20-%20Python%2010min%20a%20day%20-%20Looping%20in%20Python%20-%20for%20a%20while.ipynb)
 9. [Defining functions and stop repeating yourself](https://github.com/dennisbakhuis/python10minutesaday/blob/master/9%20-%20Python%2010min%20a%20day%20-%20Defining%20functions%20and%20stop%20repeating%20yourself.ipynb)
 10. [Testing you new skills: code a quick-sort algorithm](https://github.com/dennisbakhuis/python10minutesaday/blob/master/10%20-%20Python%2010min%20a%20day%20-%20Testing%20your%20new%20skills%20-%20code%20a%20quick-sort%20algorithm.ipynb)
+Topics:
+11. [Reading and writing files in Python](https://github.com/dennisbakhuis/python10minutesaday/blob/master/11%20-%20Python%2010min%20a%20day%20-%20Reading%20and%20writing%20files%20in%20Python.ipynb)
+12. [Try, except, finally, and context managers](https://github.com/dennisbakhuis/python10minutesaday/blob/master/12%20-%20Python%2010min%20a%20day%20-%20Try%20except%20finally%20and%20context%20managers.ipynb)
+13. [Dictionaries - key value stores](https://github.com/dennisbakhuis/python10minutesaday/blob/master/13%20-%20Python%2010min%20a%20day%20-%20Dictionaries%20-%20key%20value%20stores.ipynb)
+14. [Tuples and sets](https://github.com/dennisbakhuis/python10minutesaday/blob/master/14%20-%20Python%2010min%20a%20day%20-%20Tuples%20and%20sets.ipynb)
+15. [Working with files and paths in Python](https://github.com/dennisbakhuis/python10minutesaday/blob/master/15%20-%20Python%2010min%20a%20day%20-%20Working%20with%20files%20and%20paths%20in%20Python.ipynb)
+16. [Imports, modules, packages, libraries, and frameworks](https://github.com/dennisbakhuis/python10minutesaday/blob/master/16%20-%20Python%2010min%20a%20day%20-%20Imports%20modules%20packages%20libraries%20and%20frameworks.ipynb)
+17. [List comprehensions and map: an amazing shortcut](https://github.com/dennisbakhuis/python10minutesaday/blob/master/17%20-%20Python%2010min%20a%20day%20-%20List%20comprehensions%20and%20map%20-%20an%20amazing%20shortcut.ipynb)
+18. [A bit more on generators and how to create them](https://github.com/dennisbakhuis/python10minutesaday/blob/master/18%20-%20Python%2010min%20a%20day%20-%20A%20bit%20more%20on%20generators%20and%20how%20to%20create%20them.ipynb)
+19. [Reading errors and exceptions in Python](https://github.com/dennisbakhuis/python10minutesaday/blob/master/19%20-%20Python%2010min%20a%20day%20-%20Reading%20errors%20and%20exceptions%20in%20Python.ipynb)
+20. [Lets get the sorting sorted](https://github.com/dennisbakhuis/python10minutesaday/blob/master/20%20-%20Python%2010min%20a%20day%20-%20Lets%20get%20the%20sorting%20sorted.ipynb)
 
 If you have found these articles useful I would love to know about it. Feel free to send me a message on LinkedIn. Even more fun and if you can spare a stamp, please set me a postcard, just ask me my address. You will be on my wall of fame in my house (-:.
