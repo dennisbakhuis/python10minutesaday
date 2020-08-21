@@ -21,7 +21,6 @@ Topics:
 8. [Looping in Python: for a while](https://github.com/dennisbakhuis/python10minutesaday/blob/master/8%20-%20Python%2010min%20a%20day%20-%20Looping%20in%20Python%20-%20for%20a%20while.ipynb)
 9. [Defining functions and stop repeating yourself](https://github.com/dennisbakhuis/python10minutesaday/blob/master/9%20-%20Python%2010min%20a%20day%20-%20Defining%20functions%20and%20stop%20repeating%20yourself.ipynb)
 10. [Testing you new skills: code a quick-sort algorithm](https://github.com/dennisbakhuis/python10minutesaday/blob/master/10%20-%20Python%2010min%20a%20day%20-%20Testing%20your%20new%20skills%20-%20code%20a%20quick-sort%20algorithm.ipynb)
-Topics:
 11. [Reading and writing files in Python](https://github.com/dennisbakhuis/python10minutesaday/blob/master/11%20-%20Python%2010min%20a%20day%20-%20Reading%20and%20writing%20files%20in%20Python.ipynb)
 12. [Try, except, finally, and context managers](https://github.com/dennisbakhuis/python10minutesaday/blob/master/12%20-%20Python%2010min%20a%20day%20-%20Try%20except%20finally%20and%20context%20managers.ipynb)
 13. [Dictionaries - key value stores](https://github.com/dennisbakhuis/python10minutesaday/blob/master/13%20-%20Python%2010min%20a%20day%20-%20Dictionaries%20-%20key%20value%20stores.ipynb)
