@@ -31,5 +31,6 @@ Topics:
 18. [A bit more on generators and how to create them](https://github.com/dennisbakhuis/python10minutesaday/blob/master/18%20-%20Python%2010min%20a%20day%20-%20A%20bit%20more%20on%20generators%20and%20how%20to%20create%20them.ipynb)
 19. [Reading errors and exceptions in Python](https://github.com/dennisbakhuis/python10minutesaday/blob/master/19%20-%20Python%2010min%20a%20day%20-%20Reading%20errors%20and%20exceptions%20in%20Python.ipynb)
 20. [Lets get the sorting sorted](https://github.com/dennisbakhuis/python10minutesaday/blob/master/20%20-%20Python%2010min%20a%20day%20-%20Lets%20get%20the%20sorting%20sorted.ipynb)
+21. [Nameless functions a.k.a. lambda functions]()
 
 If you have found these articles useful I would love to know about it. Feel free to send me a message on LinkedIn. Even more fun and if you can spare a stamp, please set me a postcard, just ask me my address. You will be on my wall of fame in my house (-:.
