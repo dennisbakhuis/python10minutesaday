@@ -8,9 +8,10 @@ up to more complex idioms. Feel free to contact me on
 [LinkedIn](https://www.linkedin.com/in/dennisbakhuis/) for questions or
 requests on particular subjects of Python, you want to know about.
 
-**This is a work in progress and more topics will be added over time**
+# Use the Progress tracker: [https://python-10-minutes-a-day.rocks](https://python-10-minutes-a-day.rocks)
 
 Topics:
+0. [Environments, Conda, Pip, aaaaah!](https://github.com/dennisbakhuis/Tutorials/blob/master/Python_Conda_Pip_Environments/Python_Env_Conda_Pip_Jupyter.ipynb)
 1. [What are Python, IPython, and Jupyter lab?](https://github.com/dennisbakhuis/python10minutesaday/blob/master/1%20-%20Python%2010min%20a%20day%20-%20What%20are%20Python%2C%20IPython%2C%20and%20Jupyter%20lab%3F.ipynb)
 2. [Using Jupyter Lab and navigating notebooks](https://github.com/dennisbakhuis/python10minutesaday/blob/master/2%20-%20Python%2010min%20a%20day%20-%20Using%20Jupyter%20Lab%20and%20navigating%20notebooks.ipynb)
 3. [Commenting - what Python ignores is useful for you!](https://github.com/dennisbakhuis/python10minutesaday/blob/master/3%20-%20Python%2010min%20a%20day%20-%20Commenting%20-%20what%20Python%20ignores%20is%20useful%20for%20you!.ipynb)
@@ -31,10 +32,15 @@ Topics:
 18. [A bit more on generators and how to create them](https://github.com/dennisbakhuis/python10minutesaday/blob/master/18%20-%20Python%2010min%20a%20day%20-%20A%20bit%20more%20on%20generators%20and%20how%20to%20create%20them.ipynb)
 19. [Reading errors and exceptions in Python](https://github.com/dennisbakhuis/python10minutesaday/blob/master/19%20-%20Python%2010min%20a%20day%20-%20Reading%20errors%20and%20exceptions%20in%20Python.ipynb)
 20. [Lets get the sorting sorted](https://github.com/dennisbakhuis/python10minutesaday/blob/master/20%20-%20Python%2010min%20a%20day%20-%20Lets%20get%20the%20sorting%20sorted.ipynb)
-21. [Nameless functions a.k.a. lambda functions]()
-22. [In Python we decorate functions to make them better]()
-23. [A whole new class of programming]()
-24. [Parents, children, and inheritance]()
-25. [A well-earned self-generated certificate]()
+21. [Nameless functions a.k.a. lambda functions](https://github.com/dennisbakhuis/python10minutesaday/blob/master/21%20-%20Python%2010min%20a%20day%20-%20Nameless%20functions%20a.k.a.%20lambda%20functions.ipynb)
+22. [In Python we decorate functions to make them better](https://github.com/dennisbakhuis/python10minutesaday/blob/master/22%20-%20Python%2010min%20a%20day%20-%20In%20Python%20we%20decorate%20functions%20to%20make%20them%C2%A0better.ipynb)
+23. [A whole new class of programming](https://github.com/dennisbakhuis/python10minutesaday/blob/master/23%20-%20Python%2010min%20a%20day%20-%20A%20whole%20new%20class%20of%20programming.ipynb)
+24. [Parents, children, and inheritance](https://github.com/dennisbakhuis/python10minutesaday/blob/master/24%20-%20Python%2010min%20a%20day%20-%20Parents%20children%20and%20inheritance.ipynb)
+25. [A well-earned self-generated certificate](https://github.com/dennisbakhuis/python10minutesaday/blob/master/25%20-%20Python%2010min%20a%20day%20-%20Final%20episode.ipynb)
 
-If you have found these articles useful I would love to know about it. Feel free to send me a message on LinkedIn. Even more fun and if you can spare a stamp, please set me a postcard, just ask me my address. You will be on my wall of fame in my house (-:.
+This concludes this course. If you liked the course, I would be very happy if
+you shared the hard-earned self-generated certificate on LinkedIn and tagged me
+along with it. It gives me an idea on who actually did the course and of
+course, I will congratulate you on your achievement.  All the best and as
+always, if you have any questions, comments, or requests, feel free to contact
+me on LinkedIn.
