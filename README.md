@@ -8,9 +8,9 @@ up to more complex idioms. Feel free to contact me on
 [LinkedIn](https://www.linkedin.com/in/dennisbakhuis/) for questions or
 requests on particular subjects of Python, you want to know about.
 
-# Use the Progress tracker: [https://python-10-minutes-a-day.rocks](https://python-10-minutes-a-day.rocks)
+## Use the Progress tracker: [https://python-10-minutes-a-day.rocks](https://python-10-minutes-a-day.rocks)
 
-Topics:
+### Topics:
 0. [Environments, Conda, Pip, aaaaah!](https://github.com/dennisbakhuis/Tutorials/blob/master/Python_Conda_Pip_Environments/Python_Env_Conda_Pip_Jupyter.ipynb)
 1. [What are Python, IPython, and Jupyter lab?](https://github.com/dennisbakhuis/python10minutesaday/blob/master/1%20-%20Python%2010min%20a%20day%20-%20What%20are%20Python%2C%20IPython%2C%20and%20Jupyter%20lab%3F.ipynb)
 2. [Using Jupyter Lab and navigating notebooks](https://github.com/dennisbakhuis/python10minutesaday/blob/master/2%20-%20Python%2010min%20a%20day%20-%20Using%20Jupyter%20Lab%20and%20navigating%20notebooks.ipynb)
