@@ -1,7 +1,7 @@
 <img src="assets/jeremy-lapak-CVvFVQ_-oUg-unsplash.png" alt="Python Envs" style="display: block; margin: 0 auto" />
 
 # Learning Python 10 minutes a day
-This is a [series](https://towardsdatascience.com/tagged/10minutespython) of
+This is a [series](https://python-10-minutes-a-day.rocks) of
 short 10 minute Python articles helping you to get started with Python. I try
 to post an article each day (no promises), starting from the very basics, going
 up to more complex idioms. Feel free to contact me on
