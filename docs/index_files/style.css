@@ -10,9 +10,10 @@ body {
 	padding: 0px;
     border-radius: 25px;
     border-style: solid;
+    max-width: 600px;
 }
 #inner-works > h2 {
-	font-size: 24px;
+	font-size: 26px;
 	text-align: center;
 	padding-top: 0;
 }
@@ -36,32 +37,32 @@ footer {
     padding: 0px;
 }
 #list-group-item {
-    background: white;
-	color: black;
-    border-radius: 10px;
-    margin-top:2px;
-	font-size: 16px;
-    padding-bottom: 5px;
-    padding-top: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+  background: white;
+  color: black;
+  border-radius: 10px;
+  margin-top:2px;
+  font-size: 16px;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
 }
 #link-item {
-    display: inline;
-    max-width: 25px;
+  display: inline;
+  max-width: 25px;
 }
 .label-style {
-    padding-left: 15px;
+  padding-left: 15px;
 }
 input[type=checkbox]:checked + label.label-style{
   text-decoration: line-through;
 }
 .col-centered{
-    float: none;
-    margin: 0 auto;
+  float: none;
+  margin: 0 auto;
 }
 .headerimage {
   padding: 0;
@@ -71,9 +72,16 @@ input[type=checkbox]:checked + label.label-style{
   border-radius: 25px 25px 0px 0px;
 }
 #inner-works {
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 15px;
-    padding-top: 0px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 15px;
+  padding-top: 0px;
 }
-
+#studyguide {
+  font-size: 20px;
+  text-weight: bold;
+  text-align: center;
+}
+#explanation {
+  font-size: 17px;
+}
