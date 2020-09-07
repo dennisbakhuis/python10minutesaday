@@ -1,4 +1,4 @@
-<img src="assets/jeremy-lapak-CVvFVQ_-oUg-unsplash.png" alt="Python Envs" style="display: block; margin: 0 auto" />
+<img src="assets/social_media_image.png" alt="Python Envs" style="display: block; margin: 0 auto" />
 
 # Learning Python 10 minutes a day
 This is a [series](https://python-10-minutes-a-day.rocks) of
