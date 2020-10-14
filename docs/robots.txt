@@ -1,0 +1,4 @@
+User-agent: *
+Allow: index.html
+Disallow: /index_files/
+Sitemap: https://python-10-minutes-a-day.rocks/sitemap.xml
